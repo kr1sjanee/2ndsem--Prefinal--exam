@@ -7,12 +7,6 @@
 <link rel="stylesheet" href="index.css">
 
 </head>
-  <body>
-    <div>
-    <h1>Cabilan Prefinal</h1>
-</div>
-</body>
-</html>
 
 <?php
                    
